@@ -23,4 +23,5 @@ The dataset comprises 8,120 Turkish web page texts obtained from Wikipedia.
 Participants should develop a system to identify the most semantically relevant documents for given queries. Evaluation involves generating the required .csv output format.
 
 <br><br>
-This project, which secured the second position in the competition, aims to make strides in the field of natural language processing with innovative solutions.
+
+***This project, which secured the second position in the competition, aims to make strides in the field of natural language processing with innovative solutions.***
